@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:latexdraw="http://latexdraw.sourceforge.net/namespaces/latexdraw"
+    version="1.1" baseProfile="full">
+    <defs>
+        <marker overflow="visible" orient="auto" id="arrow2-27">
+            <path
+                d="M 0 0 L -10.208333333333334 3.6458333333333335 L -6.125 0 L -10.208333333333334 -3.6458333333333335 Z"
+                latexdraw:arrSizeNum="2.0" latexdraw:isInverted="true" fill="black"/>
+        </marker>
+        <marker overflow="visible" orient="auto" id="arrow2-28">
+            <path
+                d="M 0 0 L -10.208333333333334 3.6458333333333335 L -6.125 0 L -10.208333333333334 -3.6458333333333335 Z"
+                latexdraw:arrSizeNum="2.0" latexdraw:isInverted="true" fill="black"/>
+        </marker>
+        <marker overflow="visible" orient="auto" id="arrow2-63">
+            <path
+                d="M 0 0 L -10.208333333333334 3.6458333333333335 L -6.125 0 L -10.208333333333334 -3.6458333333333335 Z"
+                latexdraw:arrSizeNum="2.0" latexdraw:isInverted="true" fill="black"/>
+        </marker>
+        <marker overflow="visible" orient="auto" id="arrow1-64">
+            <path
+                d="M 0 0 L -10.208333333333334 3.6458333333333335 L -6.125 0 L -10.208333333333334 -3.6458333333333335 Z"
+                latexdraw:arrSizeNum="2.0" latexdraw:isInverted="false" fill="black"/>
+        </marker>
+    </defs>
+    <g>
+        <g latexdraw:type="triangle" id="id9" latexdraw:points="186.2882009796665 515.0 244.75725142932504 515.0 186.2882009796665 549.9999967292068 244.75725142932504 549.9999967292068">
+            <polygon
+                points="215.52272,515.38995 244.27051,549.75 186.77495,549.75"
+                latexdraw:borderPos="outer" stroke-width="0.5"
+                stroke="black" fill="#999999"/>
+        </g>
+        <g latexdraw:type="triangle" id="id10" latexdraw:points="326.2882009796665 330.0 384.75725142932504 330.0 326.2882009796665 364.9999967292068 384.75725142932504 364.9999967292068">
+            <polygon
+                points="355.52274,330.38998 384.2705,364.75 326.77493,364.75"
+                latexdraw:borderPos="outer" stroke-width="0.5"
+                stroke="black" fill="#999999"/>
+        </g>
+        <g latexdraw:type="text" id="id11" font-family="Times New Roman"
+            fill="black" font-size="18" latexdraw:x="161.0">
+            <text x="161.0" y="171.0"><![CDATA[$\sigma_2 l_2$]]></text>
+        </g>
+        <g latexdraw:type="line" id="id13">
+            <line x1="195.0" x2="235.0" y1="80.0" y2="80.0"
+                stroke-width="0.5" stroke="black" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="drawing" id="id14">
+            <g latexdraw:type="triangle" id="id15" latexdraw:points="186.28820097966647 140.0 244.75725142932507 140.0 186.28820097966647 174.99999672920683 244.75725142932507 174.99999672920683">
+                <polygon
+                    points="215.52272,140.38998 244.27051,174.75 186.77495,174.75"
+                    latexdraw:borderPos="outer" stroke-width="0.5"
+                    stroke="black" fill="none"/>
+            </g>
+            <g latexdraw:type="triangle" id="id16" latexdraw:points="172.7953431835914 124.82447095219334 258.2501092254 124.82447095219334 172.7953431835914 174.99999672920683 258.2501092254 174.99999672920683">
+                <polygon
+                    points="215.52272,125.210075 257.75635,174.75 173.2891,174.75"
+                    latexdraw:borderPos="outer" stroke-width="0.5"
+                    stroke="black" fill="none"/>
+            </g>
+        </g>
+        <g latexdraw:type="text" id="id18" font-family="Times New Roman"
+            fill="black" font-size="18" latexdraw:x="21.0">
+            <text x="21.0" y="361.0"><![CDATA[$\sigma_2 l_2$]]></text>
+        </g>
+        <g latexdraw:type="drawing" id="id20">
+            <g latexdraw:type="triangle" id="id21" latexdraw:points="46.28820097966647 330.0 104.75725142932507 330.0 46.28820097966647 364.9999967292068 104.75725142932507 364.9999967292068">
+                <polygon
+                    points="75.52273,330.38998 104.27051,364.75 46.774944,364.75"
+                    latexdraw:borderPos="outer" stroke-width="0.5"
+                    stroke="black" fill="none"/>
+            </g>
+            <g latexdraw:type="triangle" id="id22" latexdraw:points="32.7953431835914 314.82447095219334 118.25010922540002 314.82447095219334 32.7953431835914 364.9999967292068 118.25010922540002 364.9999967292068">
+                <polygon
+                    points="75.52273,315.21008 117.75636,364.75 33.289093,364.75"
+                    latexdraw:borderPos="outer" stroke-width="0.5"
+                    stroke="black" fill="none"/>
+            </g>
+        </g>
+        <g latexdraw:type="text" id="id24" font-family="Times New Roman"
+            fill="black" font-size="18" latexdraw:x="301.0">
+            <text x="301.0" y="361.0"><![CDATA[$\sigma_2 r_2$]]></text>
+        </g>
+        <g latexdraw:type="triangle" id="id26" latexdraw:points="312.7953431835914 314.82447095219334 398.2501092254 314.82447095219334 312.7953431835914 364.9999967292068 398.2501092254 364.9999967292068">
+            <polygon
+                points="355.52274,315.21008 397.75635,364.75 313.2891,364.75"
+                latexdraw:borderPos="outer" stroke-width="0.5"
+                stroke="black" fill="none"/>
+        </g>
+        <g latexdraw:type="line" id="id27">
+            <line x1="175.0" x2="80.0" y1="180.0" y2="230.0"
+                stroke-width="0.5" stroke="black"
+                latexdraw:rotationAngle="0.0" marker-end="url(#arrow2-27)"/>
+        </g>
+        <g latexdraw:type="line" id="id28">
+            <line x1="255.0" x2="350.0" y1="180.0" y2="230.0"
+                stroke-width="0.5" stroke="black"
+                latexdraw:rotationAngle="0.0" marker-end="url(#arrow2-28)"/>
+        </g>
+        <g latexdraw:type="triangle" id="id29" latexdraw:points="27.018036354268872 235.37041808796675 122.99367903526985 235.37041808796675 27.018036354268872 314.9999967757801 122.99367903526985 314.9999967757801">
+            <polygon
+                points="75.00586,235.85477 122.60215,314.75 27.409563,314.75"
+                latexdraw:borderPos="outer" stroke-width="0.5"
+                stroke="black" fill="#999999"/>
+        </g>
+        <g latexdraw:type="text" id="id30" font-family="Times New Roman"
+            fill="black" font-size="18" latexdraw:x="56.0">
+            <text x="56.0" y="266.0"><![CDATA[$r_1$]]></text>
+        </g>
+        <g latexdraw:type="text" id="id32" font-family="Times New Roman"
+            fill="black" font-size="18" latexdraw:x="36.0">
+            <text x="36.0" y="291.0"><![CDATA[$\sigma_1$]]></text>
+        </g>
+        <g latexdraw:type="text" id="id34" font-family="Times New Roman"
+            fill="black" font-size="18" latexdraw:x="61.0">
+            <text x="61.0" y="311.0"><![CDATA[$x$]]></text>
+        </g>
+        <g latexdraw:type="triangle" id="id36" latexdraw:points="307.0180363542689 235.37041808796675 402.99367903526985 235.37041808796675 307.0180363542689 314.9999967757801 402.99367903526985 314.9999967757801">
+            <polygon
+                points="355.00586,235.85477 402.60214,314.75 307.40958,314.75"
+                latexdraw:borderPos="outer" stroke-width="0.5"
+                stroke="black" fill="none"/>
+        </g>
+        <g latexdraw:type="text" id="id37" font-family="Times New Roman"
+            fill="black" font-size="18" latexdraw:x="336.0">
+            <text x="336.0" y="266.0"><![CDATA[$l_1$]]></text>
+        </g>
+        <g latexdraw:type="text" id="id39" font-family="Times New Roman"
+            fill="black" font-size="18" latexdraw:x="316.0">
+            <text x="316.0" y="291.0"><![CDATA[$\sigma_1$]]></text>
+        </g>
+        <g latexdraw:type="text" id="id41" font-family="Times New Roman"
+            fill="black" font-size="18" latexdraw:x="341.0">
+            <text x="341.0" y="311.0"><![CDATA[$x$]]></text>
+        </g>
+        <g latexdraw:type="line" id="id43">
+            <line x1="55.0" x2="95.0" y1="270.0" y2="270.0"
+                stroke-width="0.5" stroke="black" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="triangle" id="id44" latexdraw:points="167.01803635426887 45.370418087966755 262.99367903526985 45.370418087966755 167.01803635426887 124.99999677578012 262.99367903526985 124.99999677578012">
+            <polygon
+                points="215.00586,45.854767 262.60214,124.75 167.40956,124.75"
+                latexdraw:borderPos="outer" stroke-width="0.5"
+                stroke="black" fill="none"/>
+        </g>
+        <g latexdraw:type="text" id="id45" font-family="Times New Roman"
+            fill="black" font-size="18" latexdraw:x="196.0">
+            <text x="196.0" y="76.0"><![CDATA[$l_1$]]></text>
+        </g>
+        <g latexdraw:type="text" id="id47" font-family="Times New Roman"
+            fill="black" font-size="18" latexdraw:x="176.0">
+            <text x="176.0" y="101.0"><![CDATA[$\sigma_1$]]></text>
+        </g>
+        <g latexdraw:type="text" id="id49" font-family="Times New Roman"
+            fill="black" font-size="18" latexdraw:x="201.0">
+            <text x="201.0" y="121.0"><![CDATA[$x$]]></text>
+        </g>
+        <g latexdraw:type="line" id="id51">
+            <line x1="335.0" x2="375.0" y1="270.0" y2="270.0"
+                stroke-width="0.5" stroke="black" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="text" id="id52" font-family="Times New Roman"
+            fill="black" font-size="18" latexdraw:x="161.0">
+            <text x="161.0" y="546.0"><![CDATA[$\sigma_2 r_2$]]></text>
+        </g>
+        <g latexdraw:type="line" id="id54">
+            <line x1="195.0" x2="235.0" y1="455.0" y2="455.0"
+                stroke-width="0.5" stroke="black" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="triangle" id="id55" latexdraw:points="172.7953431835914 499.82447095219334 258.2501092254 499.82447095219334 172.7953431835914 549.9999967292068 258.2501092254 549.9999967292068">
+            <polygon
+                points="215.52272,500.21008 257.75635,549.75 173.2891,549.75"
+                latexdraw:borderPos="outer" stroke-width="0.5"
+                stroke="black" fill="none"/>
+        </g>
+        <g latexdraw:type="triangle" id="id56" latexdraw:points="167.01803635426887 420.37041808796675 262.99367903526985 420.37041808796675 167.01803635426887 499.9999967757801 262.99367903526985 499.9999967757801">
+            <polygon
+                points="215.00586,420.85477 262.60214,499.75 167.40956,499.75"
+                latexdraw:borderPos="outer" stroke-width="0.5"
+                stroke="black" fill="#999999"/>
+        </g>
+        <g latexdraw:type="text" id="id57" font-family="Times New Roman"
+            fill="black" font-size="18" latexdraw:x="196.0">
+            <text x="196.0" y="451.0"><![CDATA[$r_1$]]></text>
+        </g>
+        <g latexdraw:type="text" id="id59" font-family="Times New Roman"
+            fill="black" font-size="18" latexdraw:x="176.0">
+            <text x="176.0" y="476.0"><![CDATA[$\sigma_1$]]></text>
+        </g>
+        <g latexdraw:type="text" id="id61" font-family="Times New Roman"
+            fill="black" font-size="18" latexdraw:x="201.0">
+            <text x="201.0" y="496.0"><![CDATA[$x$]]></text>
+        </g>
+        <g latexdraw:type="line" id="id63">
+            <line x1="350.0" x2="230.0" y1="370.0" y2="420.0"
+                stroke-width="0.5" stroke="black"
+                latexdraw:rotationAngle="0.0" marker-end="url(#arrow2-63)"/>
+        </g>
+        <g latexdraw:type="line" id="id64">
+            <line x1="200.0" x2="80.0" y1="420.0" y2="370.0"
+                stroke-width="0.5" stroke="black"
+                latexdraw:rotationAngle="0.0" marker-start="url(#arrow1-64)"/>
+        </g>
+        <g latexdraw:type="text" id="id65" font-family="Times New Roman"
+            fill="black" font-size="18" latexdraw:x="1.0">
+            <text x="1.0" y="196.0"><![CDATA[$noe, l_1 \rightarrow r_1$]]></text>
+        </g>
+        <g latexdraw:type="text" id="id68" font-family="Times New Roman"
+            fill="black" font-size="18" latexdraw:x="261.0">
+            <text x="261.0" y="401.0"><![CDATA[$no, l_1 \rightarrow r_1$]]></text>
+        </g>
+        <g latexdraw:type="text" id="id70" font-family="Times New Roman"
+            fill="black" font-size="18" latexdraw:x="-9.0">
+            <text x="-9.0" y="401.0"><![CDATA[$A, l_2 \rightarrow r_2$]]></text>
+        </g>
+        <g latexdraw:type="text" id="id72" font-family="Times New Roman"
+            fill="black" font-size="18" latexdraw:x="261.0">
+            <text x="261.0" y="196.0"><![CDATA[$iS, l_2 \rightarrow r_2$]]></text>
+        </g>
+        <g latexdraw:type="line" id="id74">
+            <line x1="195.0" x2="235.0" y1="455.0" y2="455.0"
+                stroke-width="0.5" stroke="black" latexdraw:rotationAngle="0.0"/>
+        </g>
+    </g>
+    <metadata>
+        <latexdraw:metadata>
+            <latexdraw:displayBorders>false</latexdraw:displayBorders>
+            <latexdraw:autoAdjust>true</latexdraw:autoAdjust>
+            <latexdraw:ppc>50</latexdraw:ppc>
+            <latexdraw:zoom>1.25</latexdraw:zoom>
+            <latexdraw:unit>cm</latexdraw:unit>
+            <latexdraw:classicGrid>true</latexdraw:classicGrid>
+            <latexdraw:gridGap>30</latexdraw:gridGap>
+            <latexdraw:code>0</latexdraw:code>
+            <latexdraw:displayGrid>true</latexdraw:displayGrid>
+            <latexdraw:magneticGrid>true</latexdraw:magneticGrid>
+            <latexdraw:autoUpdate>true</latexdraw:autoUpdate>
+            <latexdraw:version>2.0.0</latexdraw:version>
+            <latexdraw:size>
+                <latexdraw:width>1280</latexdraw:width>
+                <latexdraw:height>994</latexdraw:height>
+            </latexdraw:size>
+            <latexdraw:position>
+                <latexdraw:x>0</latexdraw:x>
+                <latexdraw:y>0</latexdraw:y>
+            </latexdraw:position>
+            <latexdraw:dividerPosition>0.79375</latexdraw:dividerPosition>
+            <latexdraw:displayCodePanel>true</latexdraw:displayCodePanel>
+            <latexdraw:displayXScale>true</latexdraw:displayXScale>
+            <latexdraw:displayYScale>true</latexdraw:displayYScale>
+            <latexdraw:delimitorOpacity>130</latexdraw:delimitorOpacity>
+        </latexdraw:metadata>
+    </metadata>
+</svg>
