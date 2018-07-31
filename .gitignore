@@ -1,3 +1,36 @@
+# General
+target/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*.log
+*~
+
+# Latex
+auto/
+_minted*/
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.nav
+*.snm
+*.vrb
+*.bbl
+*.blg
+*_latexmk
+*.bib.bak
+*.bib.sav
+*.fls
+*.lof
+
+# Emacs
+.projectile
+
+# Haskell
 dist
 dist-*
 cabal-dev
